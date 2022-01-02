@@ -1,0 +1,26 @@
+header div nav {
+  background: #f8f9fa;
+}
+.slider {
+  background-color: #fceae8;
+}
+.cat-watch {
+  background: #ffa500;
+}
+.cat-bag {
+  background: #da70d6;
+}
+.cat-shoes {
+  background: #0000ff;
+}
+.panda-button-bg {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  padding: 9px 25px;
+  border-radius: 8px;
+}
+.panda-banner-price-color {
+  color: #ff3887;
+}
+.categories img {
+  width: 120px;
+}
