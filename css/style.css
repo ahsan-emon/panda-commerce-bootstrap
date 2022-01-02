@@ -1,4 +1,4 @@
-header div nav {
+.nav-bg {
   background: #f8f9fa;
 }
 .slider {
@@ -23,4 +23,11 @@ header div nav {
 }
 .categories img {
   width: 120px;
+}
+.subscribe-section {
+  background-color: #fceae8;
+  height: 300px;
+}
+.subscribe-p {
+  color: #808590;
 }
